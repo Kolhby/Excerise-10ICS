@@ -1,0 +1,23 @@
+﻿(Kolhby Xiong)
+“List all songs sung by a Singer X" 
+"List all songs composed by composer Y”
+
+
+(Jason Yang)
+“Give the number of songs that composer X had composed”
+“List the name of females that are singer of Song Y”
+
+
+(Jefferson Vang)
+“Give the name of male that sung the most song”
+“List the lyrics that are sung by Singer X.”
+
+
+(Siab Vang) 
+“Give the name of the person who composed the least song”
+“Give the name of the person who composed the most song”
+
+
+(Devin Lee)
+"Number of songs by singer X"
+"Number of singers in song Y"
